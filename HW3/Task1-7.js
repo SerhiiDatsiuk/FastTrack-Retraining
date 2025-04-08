@@ -113,7 +113,7 @@ function findMin() {
   
   console.log(findMin(12, 14, 4, -4, 0.2)); // => -4
   
-  //Task
+  //Task7
   /*
   function lastElem(arr, x = 1) {
   return arr.slice(-x);
