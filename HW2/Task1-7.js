@@ -3,7 +3,7 @@
 let x = 1;
 let y = 2;
 
-let res1 = "" + x +y 
+let res1 = "" + x +y;
 console.log(res1); 
 
 
@@ -98,6 +98,7 @@ Necessary
 Validate whether user-entered values are correct, otherwise display ' Incorrect data '. 
 Output the result of calculating the area of the triangle to the console with an accuracy of 3 decimal places 
 (for example : 8.42355465 = > 8.424)
+
 
 
 //Task7
